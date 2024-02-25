@@ -17,4 +17,3 @@ console.log(a);
 
 
 // Always use let for declear any variables.
-
