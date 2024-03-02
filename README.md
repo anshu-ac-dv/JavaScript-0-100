@@ -1,1 +1,1 @@
-JavaScript 1 - 100 
+*JavaScript
